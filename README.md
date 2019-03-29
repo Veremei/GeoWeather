@@ -1,5 +1,8 @@
 # GeoWeather
-App that use your location,make reverse geocoding and show weather
+App that:
+- use location
+- make reverse geocoding
+- show weather
 
 - CoreLocation
 - CLLocation
