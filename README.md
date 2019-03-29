@@ -1,2 +1,2 @@
 # GeoWeather
-App that use your location to show weather
+App that use your location,make reverse geocoding and show weather
