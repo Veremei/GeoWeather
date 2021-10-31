@@ -25,9 +25,9 @@ class GeoWeatherViewController: UIViewController,CLLocationManagerDelegate {
     
     let locationManager = CLLocationManager()
     lazy var geocoder = CLGeocoder()
-    lazy var weatherManager = APIWeatherManager(apiKey: "5c9e7956949af12d326cf141994437bd")
-    var latitude = 53.9
-    var longitude = 27.56667
+    lazy var weatherManager = APIWeatherManager(apiKey: "")
+    var latitude = 0
+    var longitude = 0
     
     override func viewDidLoad() {
         super.viewDidLoad()
