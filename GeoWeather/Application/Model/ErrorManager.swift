@@ -8,5 +8,5 @@
 
 import Foundation
 
-public let SWINetworkingErrorDomain = "ios.Daniel.Veremei.NetworkingError"
+public let SWINetworkingErrorDomain = "ios.NetworkingError"
 public let MissingHttpResponse = 100
